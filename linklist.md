@@ -1,6 +1,6 @@
 # Liste wichtiger links
 
-## Content
+## Inhalt
 - [Quellen](#quellen)
 - [Datenblätter](#datenblätter)
 
