@@ -10,7 +10,7 @@
 - [Highside Driver Erklärung](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjgsuXdht31AhXSgv0HHa41C9UQFnoECAMQAQ&url=https%3A%2F%2Fwww.st.com%2Fresource%2Fen%2Fapplication_note%2Fcd00003919-high-side-drivers-stmicroelectronics.pdf&usg=AOvVaw3f6JMbaCLqOMiwTV0djbOr)
 
 ## Datenblätter
- - [MOSFET-Treiber](https://www.vishay.com/docs/70016/si9976.pdf)
+ - [MOSFET-Treiber](https://docs.rs-online.com/74d4/0900766b813c79ae.pdf)
 
 ## Beuteilvertreiber
 - [Vishay](https://www.vishay.com/)
