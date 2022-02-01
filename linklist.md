@@ -12,4 +12,4 @@
 ## Datenblätter
 
 ## Beuteilvertreiber
-- [Vishay] (https://www.vishay.com/)
+- [Vishay](https://www.vishay.com/)
