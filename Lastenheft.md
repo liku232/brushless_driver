@@ -9,4 +9,3 @@
 * Strombegrenzung
 * Leistungsüberwachung
 * 20kHz
-* 
