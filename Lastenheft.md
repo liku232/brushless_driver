@@ -6,3 +6,7 @@
 * Messung der Motorströme
 * Versorgungsspannung: 24V
 * Ausgangsleistung: min. 50W
+* Strombegrenzung
+* Leistungsüberwachung
+* 20kHz
+* 
