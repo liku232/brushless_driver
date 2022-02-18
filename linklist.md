@@ -16,4 +16,4 @@
 - [Vishay](https://www.vishay.com/)
 
 ## Bauteile
-- [Nucleo-64 stm32 - rs-components](https://at.rs-online.com/web/p/entwicklungstools-microcontroller/8967721/)
+- [Nucleo-64 STM32 - RS-Components](https://at.rs-online.com/web/p/entwicklungstools-microcontroller/8967721/)
