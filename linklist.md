@@ -14,3 +14,6 @@
 
 ## Beuteilvertreiber
 - [Vishay](https://www.vishay.com/)
+
+## Bauteile
+- [Nucleo-64 stm32 - rs-components](https://at.rs-online.com/web/p/entwicklungstools-microcontroller/8967721/)
