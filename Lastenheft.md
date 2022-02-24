@@ -4,16 +4,16 @@
 * Es soll ein 3-Phasen Wechselrichter entwickelt werden. Es sollen 3 H-Brücken aus je 2 N-MOSFETs über einen µC angesteuert werden.
 
 ## Gruppenmitglieder:
-Menzel Luka
-Schuecker Daniel
-Hofer Phillip
-Dindar Abduerrasit
+* Menzel Luka
+* Schuecker Daniel
+* Hofer Phillip
+* Dindar Abduerrasit
 
 ## Rollenverteilung:
-Menzel Luka:
-Dindar Abduerrasit:
-Schuecker Daniel:
-Hofer Phillip:
+* Menzel Luka:
+* Dindar Abduerrasit:
+* Schuecker Daniel:
+* Hofer Phillip:
 
 ## Anforderungen
 * Req 1: Der Inverter besteht aus 3 Halbbrücken aus je zwei N-Channel MOSFETs
