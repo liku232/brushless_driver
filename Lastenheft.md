@@ -35,7 +35,3 @@
 
 ## Erreichte Ziele
 * Die Schaltfrequenz, Zwischenkreisspannung und Ausgangsstrom wurde bestimmt
-
-Simulation von der Strombegrenzung
-Schtromsensorauswahl
-Gate steuerung fuer jede halbbruecke
