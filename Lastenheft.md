@@ -4,15 +4,21 @@
 * Es soll ein 3-Phasen Wechselrichter entwickelt werden. Es sollen 3 H-Brücken aus je 2 N-MOSFETs über einen µC angesteuert werden.
 
 ## Gruppenmitglieder:
-* Menzel Luka
-* Schuecker Daniel
-* Hofer Philip
-* Dindar Abduerrasit
+Menzel Luka
+Schuecker Daniel
+Hofer Phillip
+Dindar Abduerrasit
+
+## Rollenverteilung:
+Menzel Luka:
+Dindar Abduerrasit:
+Schuecker Daniel:
+Hofer Phillip:
 
 ## Anforderungen
 * Req 1: Der Inverter besteht aus 3 Halbbrücken aus je zwei N-Channel MOSFETs
 * Req 2: Alle MOSFETs werden über MOSFET-Treiber angesteuert
-* Req 3: Zwischenkreisleistung: 24V
+* Req 3: Zwischenkreisspannung: 24V
 * Req 4: Phasenstrom: 20A max
 * Req 5: Induktive Strommessung an jeder Phase
 * Req 6: Bei Überstrom an einer Phase kann der µC die Gates nicht mehr ansteuern
@@ -21,8 +27,9 @@
 * Req 7: Ansteuerung ueber µC
 
 ## Ziele
+* Festlegen welche Schaltfrequenz, welche Zwischenkreisspannung und welchen Ausgangsstrom verwendet wird
 * Stromabsicherungsschaltung aufbauen und testen
 * 
 
 ## Erreichte Ziele
-*
+* Die Schaltfrequenz, Zwischenkreisspannung und Ausgangsstrom wurde bestimmt
