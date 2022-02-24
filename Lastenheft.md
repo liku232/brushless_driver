@@ -1,7 +1,7 @@
 # Lastenheft 
 
 ## Projekt: 3-Phasen Inverter 
-* Es soll ein 3-Phasen Wechselrichter entwickelt werden. Es sollen 3 H-Brücken aus je 2 N-MOSFETs über einen µC angesteuert werden.
+* Es soll ein 3-Phasen Wechselrichter entwickelt werden. Es sollen 3 Halb Brücken aus je 2 N-MOSFETs über einen µC angesteuert werden.
 
 ## Gruppenmitglieder:
 * Menzel Luka
