@@ -10,7 +10,7 @@
 * Dindar Abduerrasit
 
 ## Rollenverteilung:
-* Menzel Luka:
+* Menzel Luka: Hardware
 * Dindar Abduerrasit: Dokumentation
 * Schuecker Daniel:   Software
 * Hofer Phillip:
