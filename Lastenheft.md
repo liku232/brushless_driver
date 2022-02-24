@@ -10,3 +10,6 @@
 * Req 6.1: Ein derartiger Stromfehler wird über eine LED angezeigt. Der µC kann mittels Knopfdruck wieder mit dem Motor verbunden werden  
 * Req 6.2: PWM Schaltfrequenz: 50 kHz
 * Req 7: Ansteuerung ueber µC
+## Ziele
+* Stromabsicherungsschaltung aufbauen und testen
+* 
