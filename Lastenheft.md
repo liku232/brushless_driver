@@ -23,3 +23,6 @@
 ## Ziele
 * Stromabsicherungsschaltung aufbauen und testen
 * 
+
+## Erreichte Ziele
+*
