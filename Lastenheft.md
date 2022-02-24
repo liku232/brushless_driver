@@ -8,5 +8,5 @@
 * Req 5: Induktive Strommessung an jeder Phase
 * Req 6.1: Bei Überstrom an einer Phase kann der µC die Gates nicht mehr ansteuern
 * Req 6.2: Ein derartiger Stromfehler wird über eine LED angezeigt. Der µC kann mittels Knopfdruck wieder mit dem Motor verbunden werden  
-* Req 6: PWM Schaltfrequenz: 50 kHz
+* Req 6.3: PWM Schaltfrequenz: 50 kHz
 * Req 7: Ansteuerung ueber µC
