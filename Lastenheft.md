@@ -1,5 +1,8 @@
-# Lastenheft: 3-Phasen Inverter 
+# Lastenheft 
+
+## Projekt: 3-Phasen Inverter 
 * Es soll ein 3-Phasen Wechselrichter entwickelt werden. Es sollen 3 H-Brücken aus je 2 N-MOSFETs über einen µC angesteuert werden.
+
 ## Gruppenmitglieder:
 * Menzel Luka
 * Schuecker Daniel
@@ -16,6 +19,7 @@
 * Req 6.1: Ein derartiger Stromfehler wird über eine LED angezeigt. Der µC kann mittels Knopfdruck wieder mit dem Motor verbunden werden  
 * Req 6.2: PWM Schaltfrequenz: 50 kHz
 * Req 7: Ansteuerung ueber µC
+
 ## Ziele
 * Stromabsicherungsschaltung aufbauen und testen
 * 
