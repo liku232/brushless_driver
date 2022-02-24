@@ -29,7 +29,13 @@
 ## Ziele
 * Festlegen welche Schaltfrequenz, welche Zwischenkreisspannung und welchen Ausgangsstrom verwendet wird
 * Stromabsicherungsschaltung aufbauen und testen
-* 
+* Simulation von der Strombegrenzung machen
+* Schtromsensorauswahl
+* Gate steuerung fuer jede halbbruecke
 
 ## Erreichte Ziele
 * Die Schaltfrequenz, Zwischenkreisspannung und Ausgangsstrom wurde bestimmt
+
+Simulation von der Strombegrenzung
+Schtromsensorauswahl
+Gate steuerung fuer jede halbbruecke
