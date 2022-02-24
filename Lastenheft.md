@@ -1,5 +1,11 @@
 # Lastenheft: 3-Phasen Inverter 
 * Es soll ein 3-Phasen Wechselrichter entwickelt werden. Es sollen 3 H-Brücken aus je 2 N-MOSFETs über einen µC angesteuert werden.
+## Gruppenmitglieder:
+* Menzel Luka
+* Schuecker Daniel
+* Hofer Philip
+* Dindar Abduerrasit
+
 ## Anforderungen
 * Req 1: Der Inverter besteht aus 3 Halbbrücken aus je zwei N-Channel MOSFETs
 * Req 2: Alle MOSFETs werden über MOSFET-Treiber angesteuert
