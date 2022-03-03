@@ -38,4 +38,3 @@
 * Die Schaltfrequenz, Zwischenkreisspannung und Ausgangsstrom wurde bestimmt
 * Simulation von der Strombegrenzung gemacht
 * 3 Halbbrueckenschaltng simuliert
-#Protokoll der Stunde
