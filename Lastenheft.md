@@ -13,7 +13,7 @@
 * Menzel Luka: Hardware
 * Dindar Abduerrasit: Dokumentation
 * Schuecker Daniel:   Software
-* Hofer Phillip:
+* Hofer Phillip: 
 
 ## Anforderungen
 * Req 1: Der Inverter besteht aus 3 Halbbrücken aus je zwei N-Channel MOSFETs
@@ -30,8 +30,9 @@
 * Festlegen welche Schaltfrequenz, welche Zwischenkreisspannung und welchen Ausgangsstrom verwendet wird
 * Stromabsicherungsschaltung aufbauen und testen
 * Simulation von der Strombegrenzung machen
-* Schtromsensorauswahl
+* Stromsensorauswahl
 * Gate steuerung fuer jede halbbruecke
 
 ## Erreichte Ziele
 * Die Schaltfrequenz, Zwischenkreisspannung und Ausgangsstrom wurde bestimmt
+* Simulation von der Strombegrenzung gemacht
