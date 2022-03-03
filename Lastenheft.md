@@ -32,7 +32,10 @@
 * Simulation von der Strombegrenzung machen
 * Stromsensorauswahl
 * Gate steuerung fuer jede halbbruecke
+* 3 Halbbrueckenschaltng simulieren
 
 ## Erreichte Ziele
 * Die Schaltfrequenz, Zwischenkreisspannung und Ausgangsstrom wurde bestimmt
 * Simulation von der Strombegrenzung gemacht
+* 3 Halbbrueckenschaltng simuliert
+#Protokoll der Stunde
