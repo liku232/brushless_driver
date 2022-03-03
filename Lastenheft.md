@@ -10,10 +10,10 @@
 * Dindar Abduerrasit
 
 ## Rollenverteilung:
-* Menzel Luka: Hardware
+* Menzel Luka:        Hardware
 * Dindar Abduerrasit: Dokumentation
 * Schuecker Daniel:   Software
-* Hofer Phillip: 
+* Hofer Phillip:      Schaltungssimulation und Schaltungsaufbau
 
 ## Anforderungen
 * Req 1: Der Inverter besteht aus 3 Halbbrücken aus je zwei N-Channel MOSFETs
