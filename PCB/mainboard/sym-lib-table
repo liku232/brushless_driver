@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "my_stuff")(type "KiCad")(uri "/media/luka/content/PCB_PROJECTS/Brushless_driver_POWER/BDP/my_stuff.kicad_sym")(options "")(descr ""))
+  (lib (name "New_Library")(type "KiCad")(uri "/home/luka/tgm/4._JG/LA/moter_diver_mainboard_v1/New_Library.kicad_sym")(options "")(descr ""))
+)

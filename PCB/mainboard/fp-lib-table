@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "my_own")(type "KiCad")(uri "/home/luka/tgm/4._JG/LA/motor_driver_v3/pretty/my_own.pretty")(options "")(descr ""))
+)
